@@ -13,7 +13,7 @@ Speaking of Google, you can and should set-up two-factor authentication on your 
 
 
 
-## Web Services Everyone Uses
+## Web Services for Collaborating
 We use a number of different services to collaborate on documents and code. If you already have accounts with these services, great! If not, you can sign-up for free.
 
 ### Dropbox
