@@ -13,7 +13,7 @@ Speaking of Google, you can and should set-up two-factor authentication on your 
 
 
 
-## Web Services
+## Web Services Everyone Uses
 We use a number of different services to collaborate on documents and code. If you already have accounts with these services, great! If not, you can sign-up for free.
 
 ### Dropbox
@@ -43,7 +43,7 @@ To get a quick introduction to how Trello works, check out the "Welcome Board" t
 
 
 
-## Optional Web Services
+## Web Services for Data Analysis
 
 ### GitHub.com
 We use [GitHub](https://github.com) (you're here right now!) for collaborating on datasets, code, and research documentation. We like GitHub because it tracks our changes and makes it easy for a bunch of people to work on a single project. We also like (love?) GitHub because it makes our data analyses more reproducible. If you are going to work on any coding or data analysis with us, you'll need a GitHub account.
