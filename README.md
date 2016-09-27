@@ -9,9 +9,9 @@ You'll notice a bunch of references to "two-factor authentication" below. Someti
 
 Websites use this differently - Google requires the second factor be entered every thirty days or at a log-in from a new device while other services only require the second factor when a new device is used to log-in.
 
-Speaking of Google, you can and should set-up two-factor authentication on your SLU account. You can follow [these instructions](https://www.google.com/landing/2step/) to enable it.
+Speaking of Google, you can and should set-up two-factor authentication on your SLU Google account. You can follow [these instructions](https://www.google.com/landing/2step/) to enable it.
 
-
+The mySLU system does not currently have two-factor authentication set-up. The University is [rolling out](http://www.slu.edu/its/password-help/login2-slu) a system that they are calling "multi-factor authentication" for Fall, 2017. Based on their current plans, it is a similar set-up to the services we use for research - you would need your phone or another device (like a small application running in the background on your computer) to log-in to the mySLU system. You can start the registration process now by following the instructions on the [SLU ITS website](http://www.slu.edu/its/password-help/login2-slu).
 
 ## Web Services for Collaborating
 We use a number of different services to collaborate on documents and code. If you already have accounts with these services, great! If not, you can sign-up for free.
