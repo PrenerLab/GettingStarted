@@ -2,8 +2,6 @@
 ## CITI Training
 Since we work with data that includes information about people, we need to take extra steps to make sure that we protect participants' rights. One step in that is taking a short research ethics training course through the [CITI program](https://www.citiprogram.org). When you register, you will need to affiliate yourself with Saint Louis University and take the "Social/Behavioral Research" course. You can find out more details on this program on [SLU's Institutional Review Board website](http://goo.gl/Dzu9E6). Once you have completed your course, forward your completion certificate to Chris.
 
-
-
 ## Two-Factor Authentication
 You'll notice a bunch of references to "two-factor authentication" below. Sometimes it gets abbreviated it as "2FA". Two-factor authentication prevents an authorized user from accessing an account even if they have the correct password. It does this by requiring a second piece of information beyond the password to log-in, typically a six-digit code that is sent via text message to you.
 
@@ -41,8 +39,6 @@ Ask Chris for an invitation for join our team. Once the sign-up process is compl
 
 To get a quick introduction to how Trello works, check out the "Welcome Board" that they automatically generate for you when you create your account. You can also check out their [Getting Started with Trello](https://trello.com/guide) guides. The [Organize](https://trello.com/guide/organize.html) and [Board Basics](https://trello.com/guide/board_basics.html) guides might be particularly helpful.
 
-
-
 ## Web Services for Data Analysis
 
 ### GitHub.com
@@ -51,3 +47,5 @@ We use [GitHub](https://github.com) (you're here right now!) for collaborating o
 You can sign-up at [GitHub.com](https://github.com). Once you've signed up, fill out your profile, set-up [two-factor authentication](https://help.github.com/articles/about-two-factor-authentication/), and let Chris know what your username is. Once he has it, he can add you to the [PrenerLab](https://github.com/PrenerLab) organization.
 
 Once you have an account, you'll want to install the [GitHub Desktop application](https://desktop.github.com) for your computer so that you can clone the repositories that you are working, make changes, and keep your work in sync with the rest of the team.
+
+To get a quick introduction to how GitHub works, check out the their [GitHub Guides](https://guides.github.com). The [Understanding the GitHub Flow](https://guides.github.com/introduction/flow/) and the [Mastering Markdown](https://guides.github.com/features/mastering-markdown/) guides may be particularly helpful. I highly recommend completing the [Hello World](https://guides.github.com/activities/hello-world/) exercise as well.
