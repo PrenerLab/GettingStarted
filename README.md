@@ -1,4 +1,4 @@
-There are a number of initial steps for getting set-up with the tools we use for research. These allow us to conduct our research in an ethical, secure, and reproducible manner. 
+There are a number of initial steps for getting set-up with the tools we use for research. These allow us to conduct our research in an ethical, secure, and reproducible manner.
 
 ### CITI Training
 Since we work with data that includes information about people, we need to take extra steps to make sure that we protect participants' rights. One step in that is taking a short research ethics training course through the [CITI program](https://www.citiprogram.org). When you register, you will need to affiliate yourself with Saint Louis University and take the "Social/Behavioral Research" course. You can find out more details on this program on [SLU's Institutional Review Board website](http://goo.gl/Dzu9E6). Once you have completed your course, forward your completion certificate to Chris.
@@ -50,3 +50,5 @@ You can sign-up at [GitHub.com](https://github.com). Once you've signed up, fill
 Once you have an account, you'll want to install the [GitHub Desktop application](https://desktop.github.com) for your computer so that you can clone the repositories that you are working, make changes, and keep your work in sync with the rest of the team.
 
 To get a quick introduction to how GitHub works, check out the their [GitHub Guides](https://guides.github.com). The [Understanding the GitHub Flow](https://guides.github.com/introduction/flow/) and the [Mastering Markdown](https://guides.github.com/features/mastering-markdown/) guides may be particularly helpful. I highly recommend completing the [Hello World](https://guides.github.com/activities/hello-world/) exercise as well. We also have our [own guide](https://github.com/PrenerLab/GettingStarted/blob/master/gitHubGuide.md) for how we use GitHub.
+
+This interactive [Git Tutorial](https://try.github.io/levels/1/challenges/1) was created by Code School, it does a good job of explaining Git, the processes behind GitHub, and can be useful for helping users understand what is occurring when we push a branch or submit a pull request.
